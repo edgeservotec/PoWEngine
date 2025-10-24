@@ -1,0 +1,12 @@
+{
+  "version": "v0.9.9",
+  "title": "version update",
+  "content": "1) Fixed several issues \n",
+  "linkText": "viewchangelog",
+  "linkUrl": "https://github.com/greybell48/PoWEngine/blob/main/README.md",
+  "downloadUrl": "https://github.com/greybell48/PoWEngine/releases/latest/download/Release.zip",
+  "WindownloadUrl": "https://github.com/greybell48/PoWEngine/releases/latest/download/Miner-win-x64.exe",
+  "MacdownloadUrl": "https://github.com/greybell48/PoWEngine/releases/latest/download/Miner-mac-arm64.dmg",
+  "Mac86downloadUrl": "https://github.com/greybell48/PoWEngine/releases/latest/download/Miner-mac-x64.dmg",
+  "mandatory": false
+}
