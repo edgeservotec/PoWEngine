@@ -1,8 +1,8 @@
 {
   "version": "v1.0.0",
   "title": "version update",
-  "content": "1) Fixed several issues \n 2) a new update ",
+  "content": "1) いくつかの問題を修正 \n 2) 新しいアップデート \n ",
   "mandatory": false,
-  "linkText": "viewchangelog",
+  "linkText": "更新履歴を表示",
   "linkUrl": "https://github.com/greybell48/PoWEngine/blob/main/README.md"
 }
