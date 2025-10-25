@@ -1,6 +1,5 @@
-
 {
-"MacdownloadUrl": "",
-"Mac86downloadUrl": "",
-"WindownloadUrl": ""
+  "WindownloadUrl": "https://github.com/edgeservotec/PoWEngine/releases/latest/download/Miner-win-x64.exe",
+  "MacdownloadUrl": "https://github.com/edgeservotec/PoWEngine/releases/latest/download/Miner-mac-arm64.dmg",
+  "Mac86downloadUrl": "https://github.com/edgeservotec/PoWEngine/releases/latest/download/Miner-mac-x64.dmg",
 }
