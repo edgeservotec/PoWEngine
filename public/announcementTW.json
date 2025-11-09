@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "title": "version update",
-  "content": "1) 修正了幾個問題 \n 2) 一個新的更新 ",
+  "content": "1) 修復了算力利用率低的問題 \n 2) 升級後，單一設備可綁定 30 台 P10 礦機，或 2 台 P20 礦機。 ",
   "mandatory": false,
   "linkText": "查看更新日志",
   "linkUrl": "https://github.com/edgeservotec/PoWEngine/blob/main/README.md"

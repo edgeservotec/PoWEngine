@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "title": "version update",
-  "content": "1) いくつかの問題を修正 \n 2) 新しいアップデート \n ",
+  "content": "1) コンピューティングパワーの使用率が低い問題が修正されました。 \n 2) アップグレード後、1台のデバイスにP10マイナーを30台、またはP20マイナーを2台接続できるようになります。 \n ",
   "mandatory": false,
   "linkText": "更新履歴を表示",
   "linkUrl": "https://github.com/edgeservotec/PoWEngine/blob/main/README.md"

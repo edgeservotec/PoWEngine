@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "title": "version update",
-  "content": "1) Fixed several issues \n 2) a new update ",
+  "content": "1) The issue of low computing power utilization has been fixed. \n 2) After the upgrade, a single device can be bound to 30 P10 miners, or 2 P20 miners.",
   "mandatory": false,
   "linkText": "viewchangelog",
   "linkUrl": "https://github.com/edgeservotec/PoWEngine/blob/main/README.md"
